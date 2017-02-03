@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:700|Great+Vibes|Oswald:300,400,700|Shadows+Into+Light+Two|PT+Sans:400,400i,700');
+
+.bodyversos {
+	background-color: #e9b000;
+}
+
+aside {
+    position: relative;
+    float: right;
+    width: 10%;
+    background-color: #9f2121;
+    height: 57vh;
+    text-align: center;
+    padding-top: 22%;
+}
+
+.leftysolo {
+	background-color: #e9b000;
+}
+
+.leftysolo .leftaside a img {
+	max-width: 6%;
+	position: fixed;
+}
+
+.lefty {
+	float: left;
+}
+
+.bodyversos #arrow a img {
+	position: fixed;
+	max-width: 6%;
+	float: left;
+	top: 40%;
+	left: 3%;
+}
+
+.rightaside p {
+	margin-top: 30px;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+}
+
+.leftaside p {
+	margin-top: 30px;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+}
+
+.goright img {
+	max-width: 30%;
+}
+
+.goright:hover {
+	cursor: pointer;
+}
+
+.goleft img {
+	max-width: 30%;
+}
+
+.goleft:hover {
+	cursor: pointer;
+}
+
+.generalcont {
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	width: 78%;
+	text-align: center;
+	padding-top: 3%;
+}
+
+.poemcont1 {
+	background-color: #e24e42;
+	width: 100%;
+	margin-left: 2%;
+	margin-right: 2%;
+	display: flex;
+	justify-content: center;
+}
+
+.poemcont2 {
+	width: 100%;
+	margin-left: 2%;
+	margin-right: 2%;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.bigpoems {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 72px;
+	color: #FFA54B;
+}
+
+.bigpoems a {
+	color: #FFA54B;
+	text-decoration: none;
+}
+
+.bigpoems a:hover {
+	color: #66bbbf;
+}
+
+.poems {
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 44%;
+	background-color: #e24e42;
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 38px;
+	margin: 2% 2%;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: #FFA54B;
+}
+
+.poems a {
+	color: #FFA54B;
+	text-decoration: none;
+}
+
+.poems a:hover {
+	color: #66bbbf;
+}
+
+.body {
+	padding-top: 4%;
+}
+
+.pt {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align: center;
+}
+
+.pt p {
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 60px;
+	color: #e24e42;
+}
+
+.versos {
+	display: table;
+	position: relative;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6%;
+	margin-bottom: 5%;
+}
+
+.versos p {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 22px;
+	color: #3a3a3a;
+}
+
+#espere p {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	left: -10px;
+}
+

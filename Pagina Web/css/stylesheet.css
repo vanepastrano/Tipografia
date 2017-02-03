@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:700|Great+Vibes|Oswald:300,400,700|Shadows+Into+Light+Two');
+body {
+	background-image: url(../img/landing.jpg);
+	background-size: 80%;
+}
+
+#landingtitle {
+	display: inline-block;
+	float: right;
+	position: relative;
+	margin-right: 50px;
+	margin-top: 150px;
+}
+
+#landingtitle h1 {
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 92px;
+	font-weight: 700;
+	line-height: 100px;
+}
+
+#landingtitle p {
+	text-align-last: right;
+	font-family: 'Oswald', sans-serif;
+	margin-top: 50px;
+	font-size: 30px;
+}
+
+aside {
+    position: relative;
+    float: right;
+    width: 20%;
+    background-color: #9f2121;
+    height: 57vh;
+    text-align: center;
+    padding-top: 22%;
+}
+
+.rightaside p {
+	margin-top: 30px;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+}
+
+.leftaside p {
+	margin-top: 30px;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+}
+
+.goright img {
+	max-width: 30%;
+}
+
+.goright:hover {
+	cursor: pointer;
+}
+
+.goleft: img {
+	max-width: 30%;
+}
+
+.goleft:hover {
+	cursor: pointer;
+}
